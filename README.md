@@ -1,2 +1,2 @@
 # CMIP5_kernels
-CMIP5 GMST, SLR, and OHC kernels for computing radiative forcing from variable time series. 
+CMIP5 GMST, SLR, and OHC responses to 4xCO2 step change experiment. These are used in the kernel method for computing radiative forcing from variable time series, and alternatively, computing varible respones to forcing time series. See Larson and Portmann, 2016, Good et al. 2011, 2013. I have also included two short idl scripts that can easily be translated into the language of choice by the user, that utilize these repsonse variables to make the kernels for the temporal kernel method. 
